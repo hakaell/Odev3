@@ -1,2 +1,2 @@
 # Odev3
-Ödev 3
+Patika.dev - kodluyoruz HTML ODEV 3
